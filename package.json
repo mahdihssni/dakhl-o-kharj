@@ -1,0 +1,15 @@
+{
+  "name": "dakhl-va-kharj-bot",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Mahdi Hasani",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^8.0.3",
+    "telegraf": "^4.15.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "nodemon": "^3.0.2"
+  }
+}
